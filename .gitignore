@@ -1,0 +1,22 @@
+# --- KICAD ---
+*.bak
+*-bak
+*.bck
+*~
+_autosave-*
+*.tmp
+*.lock
+*.net
+*.dcm
+*.kicad_prl
+fp-info-cache
+Czujnik_pogody_i_bezpieczenstwa_do_uzytku_domowego_gerbers/
+Czujnik_pogody_i_bezpieczenstwa_do_uzytku_domowego-backups/
+
+# --- ARDUINO ---
+# Ignoruj foldery budowania (kompilacji)
+build/
+*.elf
+*.hex
+*.bin
+*.map
