@@ -1,0 +1,1 @@
+# Czujnik-pogody-i-bezpiecze-stwa-do-u-ytku-domowego
